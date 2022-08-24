@@ -1,0 +1,6 @@
+gamepad-tool-bin
+librewolf-bin
+logmein-hamachi
+mu
+xclicker
+yay
